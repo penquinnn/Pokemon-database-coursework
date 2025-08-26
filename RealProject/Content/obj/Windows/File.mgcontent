@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/File.spritefont</SourceFile>
+  <SourceTime>2025-06-02T11:42:50+01:00</SourceTime>
+  <DestFile>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/bin/Windows/File.xnb</DestFile>
+  <DestTime>2025-07-01T13:32:19.2059224+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T11:31:02+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T11:31:02+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

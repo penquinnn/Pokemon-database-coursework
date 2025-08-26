@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/a.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/battleBackgrounds.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/battleMenu.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/Charizard.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/File.spritefont</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/Icon.ico</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/jolt.webp</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/menu1.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/PlayerSprites.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/PokemonSpriteSheet_1.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/SmallFont.spritefont</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/Solid_white.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/test9.png</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/Text.spritefont</File>
+    <File>C:/Users/adam/OneDrive - Altus Education Partnership/Adam Prz - NEA Comp Sci/Project/RealProject/RealProject/Content/tileset.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
